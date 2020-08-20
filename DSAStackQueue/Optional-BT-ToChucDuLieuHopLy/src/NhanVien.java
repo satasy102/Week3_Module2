@@ -49,7 +49,7 @@ public class NhanVien implements Comparable<NhanVien>{
 
     @Override
     public String toString() {
-        return "HO VA TEN: " + hoTen +", GIOI TINH: " + layGioiTinh(gioiTinh) + ", NGAY SINH: " + ngaySinh(ngaySinh) +"s\n";
+        return "HO VA TEN: " + hoTen +", GIOI TINH: " + layGioiTinh(gioiTinh) + ", NGAY SINH: " + ngaySinh(ngaySinh) +"\n";
 
     }
 
